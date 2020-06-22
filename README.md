@@ -1,2 +1,2 @@
 # bookmarks
-网址收藏备份
+科学上网: https://github.com/bannedbook/fanqiang/wiki
